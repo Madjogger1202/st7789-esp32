@@ -9,6 +9,8 @@ The whole point of the project is to build tyny WiFi display, which can be easil
 ![image](https://github.com/user-attachments/assets/c99486a1-ae41-4d7d-b933-d68ebeb80172)
 ![image](https://github.com/user-attachments/assets/d66f6c84-bdce-4f4d-8078-02097f537aa5)
 
+**for partnership and questions can be found on Telegram: @madjogger**
+
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
 
 ## License
