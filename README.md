@@ -15,7 +15,7 @@ This project is licensed under the Creative Commons Attribution-NonCommercial 4.
 
 Creative Commons Attribution-NonCommercial 4.0 International
 
-© 2024 Your Name
+© 2024 Vitaly
 
 You are free to:
 - Share — copy and redistribute the material in any medium or format
